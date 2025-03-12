@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <!--
-**yaaelahsan/yaaelahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**n0l3r/n0l3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yaaelahsan/count.svg" />
+</p>
+
+
+
+### Hi there, my name is Irsan Romardi Harahap 👋
+### I'm a Informatic Engineering Student
+
+- 🌱 I’m currently learning Laravel, Javascript, Next Js, php, c++ and python
+
+ <b>Connect with me</b>
+ <a href="https://www.instagram.com/yaaelahsan_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/yaaelahsan_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+<table border="0">
+ <tr>
+    <td><img alt="yaaelahsan's github stats" src="https://github-readme-stats.vercel.app/api?username=yaaelahsan&&theme=radical"/></td>
+    <td><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaaelahsan&layout=compact&hide_border=true&theme=radical"/></td>
+ </tr>
+
+</table>
+
