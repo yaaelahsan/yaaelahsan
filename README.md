@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences **[https://www.linkedin.com/in/irsannerha/](https://www.linkedin.com/in/irsannerha/)**
 
  <b>Connect with me</b>
- <a href="https://www.instagram.com/yaaelahsan_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/yaaelahsan_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
+ <a href="https://www.instagram.com/yaaelahsan" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/yaaelahsan" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <table border="0">
  <tr>
      <p><img align="center" src="https://www.codewars.com/users/yaaelahsan/badges/large" alt="zexoverz-codewars" /></p>
