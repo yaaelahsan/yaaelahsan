@@ -29,11 +29,18 @@ Here are some ideas to get you started:
  <a href="https://www.instagram.com/yaaelahsan" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/yaaelahsan" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <table border="0">
+   <p><img align="center" src="https://www.codewars.com/users/yaaelahsan/badges/large" alt="yaaelahsan-codewars" /></p>
+  <tr>
+    <td><img alt="yaaelahsan's github stats" src="https://github-readme-stats.vercel.app/api?username=yaaelahsan&&theme=radical"/></td>
+     <td><img align="center" src="https://leetcard.jacoblin.cool/yaaelahsan?theme=radical&hide_border=false" alt="yaaelahsan-leetcode" /></td>
+    </tr>
  <tr>
-     <p><img align="center" src="https://www.codewars.com/users/yaaelahsan/badges/large" alt="yaaelahsan-codewars" /></p>
-     <td><img align="center" src="https://leetcard.jacoblin.cool/yaaelahsan?theme=dark" alt="yaaelahsan-leetcode" /></td>
-     <td><img alt="yaaelahsan's github stats" src="https://github-readme-stats.vercel.app/api?username=yaaelahsan&&theme=radical"/></td>
-    <td><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaaelahsan&layout=compact&hide_border=true&theme=radical"/></td>
+     <td><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=yaaelahsan&theme=radical&hide_border=false" alt="yaaelahsan-codewars" /></td>
+    <td><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaaelahsan&layout=compact&hide_border=false&theme=radical"/></td>
  </tr>
 </table>
 
+---
+[![](https://visitcount.itsvg.in/api?id=yaaelahsan&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
