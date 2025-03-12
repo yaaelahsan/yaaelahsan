@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Full Stack Developer</h3>
 <h3 align="center">https://yaaelahsan.github.io/</h3>
 
-- 🌱 I’m currently learning Javascript, Laravel, Next Js,Php, C++ and Python
+- 🌱 I’m currently learning Javascript, Php, C++ and Python
 - 📫 How to reach me **yaaelahsan@gmail.com**
 - 📄 Know about my experiences **[https://www.linkedin.com/in/irsannerha/](https://www.linkedin.com/in/irsannerha/)**
 
@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <table border="0">
    <p><img align="center" src="https://www.codewars.com/users/yaaelahsan/badges/large" alt="yaaelahsan-codewars" /></p>
   <tr>
-    <td><img alt="yaaelahsan's github stats" src="https://github-readme-stats.vercel.app/api?username=yaaelahsan&&theme=radical"/></td>
+    <td><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=yaaelahsan&theme=radical&hide_border=false" alt="yaaelahsan-codewars" /></td>
      <td><img align="center" src="https://leetcard.jacoblin.cool/yaaelahsan?theme=radical&hide_border=false" alt="yaaelahsan-leetcode" /></td>
     </tr>
  <tr>
-     <td><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=yaaelahsan&theme=radical&hide_border=false" alt="yaaelahsan-codewars" /></td>
+     <td><img alt="yaaelahsan's github stats" src="https://github-readme-stats.vercel.app/api?username=yaaelahsan&&theme=radical"/></td>
     <td><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaaelahsan&layout=compact&hide_border=false&theme=radical"/></td>
  </tr>
 </table>
