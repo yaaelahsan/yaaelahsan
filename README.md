@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/yaaelahsan_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
 <table border="0">
  <tr>
-     <p><img align="center" src="https://www.codewars.com/users/yaaelahsan/badges/large" alt="zexoverz-codewars" /></p>
-     <td><img alt="yaaelahsan's github stats" src="https://github-readme-stats.vercel.app/api?username=yaaelahsan&&theme=radical"/></td>
+     <td><img alt="yaaelahsan's github stats" src="https://github-readme-stats.vercel.app/api?username=yaaelahsan&&theme=radical"/>
+     <p><img align="center" src="https://www.codewars.com/users/yaaelahsan/badges/large" alt="zexoverz-codewars" /></p></td>
     <td><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaaelahsan&layout=compact&hide_border=true&theme=radical"/></td>
  </tr>
 </table>
