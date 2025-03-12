@@ -1,5 +1,5 @@
 <!--
-**n0l3r/n0l3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yaaelahsan/yaaelahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,13 +17,13 @@ Here are some ideas to get you started:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/yaaelahsan/count.svg" />
 </p>
+<h1 align="center">Hi 👋, I'm Irsan Romardi Harahap</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">https://yaaelahsan.github.io/</h3>
 
-
-
-### Hi there, my name is Irsan Romardi Harahap 👋
-### I'm a Informatic Engineering Student
-
-- 🌱 I’m currently learning Laravel, Javascript, Next Js, php, c++ and python
+- 🌱 I’m currently learning Javascript, Laravel, Next Js,Php, C++ and Python
+- 📫 How to reach me **yaaelahsan@gmail.com**
+- 📄 Know about my experiences **[https://www.linkedin.com/in/irsannerha/](https://www.linkedin.com/in/irsannerha/)**
 
  <b>Connect with me</b>
  <a href="https://www.instagram.com/yaaelahsan_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
